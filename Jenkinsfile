@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Release') {
             steps {
-                echo 'Code Release!..' 
+                echo 'Code Release!...' 
             }
         }
     }
